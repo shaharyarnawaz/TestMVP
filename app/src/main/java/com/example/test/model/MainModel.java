@@ -18,7 +18,7 @@ import java.util.ArrayList;
  * ---------------------------------------------------
  */
 public class MainModel implements MVP_Main.ProvidedModelOps {
-
+//
     // Presenter reference
     private MVP_Main.RequiredPresenterOps mPresenter;
     private DAO mDAO;
